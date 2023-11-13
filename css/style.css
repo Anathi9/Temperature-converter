@@ -1,0 +1,41 @@
+
+body {
+    
+    background-color: rgb(112, 216, 202);
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color:grey;
+    padding: 10px;
+    
+}
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+input {
+    width: 20%;
+    padding: 10px;
+    margin-left: 40%;
+    text-align: center;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.input-group-text {
+    background-color: #007BFF;
+    color: #fff;
+    border: 1px solid #007BFF;
+}
+.button {
+    text-align: center;
+    margin-top: 20px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
